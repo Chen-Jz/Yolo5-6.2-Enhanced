@@ -1,0 +1,7 @@
+path: /media/cjz/Working/0-DataSets/XYJC/
+train: train2017.txt 
+val: val2017.txt  
+nc: 8
+names: ['jdx','jdz','mhq','mht_close','mht_open','aqm','sjm','ly']
+
+
